@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @horvath-milan
-- 👀 I’m interested in web design
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning JawaSrcipt
 - 💞️ I’m looking to collaborate on love projects.
 - 📫 How to reach me: https://www.linkedin.com/in/thisguycan/ @holvagymilan on instagram
