@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @horvath-milan
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning JawaSrcipt
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on love projects.
 - 📫 How to reach me: https://www.linkedin.com/in/thisguycan/ @holvagymilan on instagram
 - ⚡ Fun fact: I cycled over 20.000 kms during one biketrip.
 
